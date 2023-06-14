@@ -14,7 +14,7 @@ footer: <a href="https://joelnitta.github.io/biopak-ropen-2023-06-14">https://jo
 <br>
 
 ::: {.large}
-rOpenSciの紹介
+rOpenSciコミュニティの紹介
 :::
 
 2023-06-14

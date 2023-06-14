@@ -102,6 +102,14 @@ Rパッケージを**査読**して、**支援**する**コミュニティー**
 
 ![](images/staff.png){.r-stretch}
 
+## Community Calls
+
+![](images/comm_call.png){.r-stretch}
+
+## Blog
+
+![](images/blog.png){.r-stretch}
+
 ## なぜ投稿する（査読してもらう）？
 
 - 自分の**パッケージをよりよくする**
